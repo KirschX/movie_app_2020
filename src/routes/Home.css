@@ -1,8 +1,8 @@
 .container {
-    height: 100vh;
-    dispaly: felx;
+    height: 100%;
+    display: flex;
     justify-content: center;
-    aligh-items: center;
+    align-items: center;
     font-weight: 300;
 }
 
